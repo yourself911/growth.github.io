@@ -27,7 +27,7 @@
 js中一些重要api的实现  
 <https://juejin.im/post/5d635566e51d4561e224a360#heading-11>   
 
-前端工程师如何持续保持热情（一）
+前端工程师如何持续保持热情（一)    
 <https://juejin.im/post/5d6419dee51d4561eb0b26af>  
 
 
