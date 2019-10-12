@@ -9,4 +9,5 @@ https://juejin.im/post/5bab946cf265da0ae92a75ca#heading-0
 ::-webkit-scrollbar   <http://caibaojian.com/webkit-scrollbar.html>   
 ::-webkit-overflow-scroll: touch  
 引用自定义组件时，`<m-cmp class="my"/>` 要改变自定义组件的display值，对组件的样式操作才会生效。   
-注意是对整个自定义组件，而不是组件内部元素。只有少数几个样式自定义组件内部才能定义，除非使用样式隔离，自定义组件名的元素选择器，和外部样式类，具体看文档。
+注意是对整个自定义组件，而不是组件内部元素。只有少数几个样式自定义组件内部才能定义，除非使用样式隔离，自定义组件名的元素选择器，和外部样式类，具体看文档。     
+评论系统功能设计：<https://learnku.com/articles/8075/the-review-function-is-completed-by-the-way-by-the-way-the-experience-of-developing-reviews>
