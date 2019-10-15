@@ -12,3 +12,5 @@ https://juejin.im/post/5bab946cf265da0ae92a75ca#heading-0
 注意是对整个自定义组件，而不是组件内部元素。只有少数几个样式自定义组件内部才能定义，除非使用样式隔离，自定义组件名的元素选择器，和外部样式类，具体看文档。     
 评论系统功能设计：<https://learnku.com/articles/8075/the-review-function-is-completed-by-the-way-by-the-way-the-experience-of-developing-reviews>   
 微信小程序组件化的解决方案：<https://zhuanlan.zhihu.com/p/33274694>   
+微信小程序swiper的高度固定问题： lin-ui
+  
