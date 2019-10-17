@@ -16,4 +16,6 @@ https://juejin.im/post/5bab946cf265da0ae92a75ca#heading-0
 微信小程序tabs滚动效果，主要是那个计算居中的公式。瀑布流组件化实现，学习lin-ui的源码，自己尝试写一下。   
 微信小程序video常见的开发需求解决方案<https://juejin.im/post/5c4ee15cf265da61193c32f2#heading-7> video用的是hls协议，看看imweb
 腾讯课堂小程序开发流程，讲解了直播协议，以及性能优化方法。    
+微信小程序生成带参数的二维码: <https://www.ifanr.com/minapp/823595>   
+
 
