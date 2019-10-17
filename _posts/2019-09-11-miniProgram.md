@@ -12,5 +12,8 @@ https://juejin.im/post/5bab946cf265da0ae92a75ca#heading-0
 注意是对整个自定义组件，而不是组件内部元素。只有少数几个样式自定义组件内部才能定义，除非使用样式隔离，自定义组件名的元素选择器，和外部样式类，具体看文档。     
 评论系统功能设计：<https://learnku.com/articles/8075/the-review-function-is-completed-by-the-way-by-the-way-the-experience-of-developing-reviews>   
 微信小程序组件化的解决方案：<https://zhuanlan.zhihu.com/p/33274694>   
-微信小程序swiper的高度固定问题： lin-ui
-  
+微信小程序swiper的高度固定问题： lin-ui   
+微信小程序tabs滚动效果，主要是那个计算居中的公式。瀑布流组件化实现，学习lin-ui的源码，自己尝试写一下。   
+微信小程序video常见的开发需求解决方案<https://juejin.im/post/5c4ee15cf265da61193c32f2#heading-7> video用的是hls协议，看看imweb
+腾讯课堂小程序开发流程，讲解了直播协议，以及性能优化方法。    
+
