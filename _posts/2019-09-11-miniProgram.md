@@ -17,5 +17,9 @@ https://juejin.im/post/5bab946cf265da0ae92a75ca#heading-0
 微信小程序video常见的开发需求解决方案<https://juejin.im/post/5c4ee15cf265da61193c32f2#heading-7> video用的是hls协议，看看imweb
 腾讯课堂小程序开发流程，讲解了直播协议，以及性能优化方法。    
 微信小程序生成带参数的二维码: <https://www.ifanr.com/minapp/823595>   
+微信小程序实现底部弹出框动画效果: <http://www.hehaibao.com/wxapp-show-footer-animation-popup/>    
+
+
+
 
 
