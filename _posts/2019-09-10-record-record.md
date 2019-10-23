@@ -31,5 +31,6 @@ js中一些重要api的实现
 <https://juejin.im/post/5d6419dee51d4561eb0b26af>  
 
 v2ray学习<https://guide.v2fly.org/prep/start.html#时间是否准确>    
-svn使用命令详解: <https://blog.roncoo.com/article/124725>
+svn使用命令详解: <https://blog.roncoo.com/article/124725>    
+微博计数器的设计<http://blog.cydu.net/weidesign/2012/09/09/weibo-counter-service-design-2/>
 
