@@ -25,10 +25,13 @@ https://juejin.im/post/5bab946cf265da0ae92a75ca#heading-0
 跳转需要一定的时间，这就就会出现两次跳转，那么久需要使用函数节流。    
 微信小程序渐入渐出动画效果 <https://juejin.im/post/5ce786b2f265da1bca51b5ed>     
 
-微信小程序box-shadow在安卓手机无效的原因一般是颜色值有问题。
-微信小程序组件设置为z-index后无法触发tap事件。
-很多程序bug，是文档没看清楚，参数写错或漏写，这个需要心平气和，耐心。
-使用canvas画圆形图形的阴影时要注意，图片的圆形是通过clip()切出来的，所以直接对其加阴影无效（没有显示区域）。可以在画一个同心圆，设置storkeStyle（）就可以加阴影。
+微信小程序box-shadow在安卓手机无效的原因一般是颜色值有问题。   
+微信小程序组件设置为z-index后无法触发tap事件。    
+很多程序bug，是文档没看清楚，参数写错或漏写，这个需要心平气和，耐心。   
+使用canvas画圆形图形的阴影时要注意，图片的圆形是通过clip()切出来的，所以直接对其加阴影无效（没有显示区域）。可以在画一个同心圆，设置storkeStyle（）就可以加阴影。    
+<img src="{{site.url}}/images/canvas-shadow.png" style="width: 160px; height: 160px;" />
+
+
 
 
 
