@@ -220,3 +220,5 @@
 
 
 <img src="{{site.url}}/images/canvas-shadow.png" style="width: 160px; height: 160px;" />
+<img src="{{site.url}}/images/table.png" />
+
