@@ -11,4 +11,4 @@
     - 查看用户的支付信息，可进行退款操作
     
 ### 涉及的数据表   
-<img src="{{site.url}}/images/img-ydty/table.png" />
+<img src="https://github.com/yourself911/yourself911.github.io/blob/master/images/img-ydty/table.png" />
