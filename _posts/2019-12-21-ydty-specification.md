@@ -11,3 +11,4 @@
     - 查看用户的支付信息，可进行退款操作
     
 ### 涉及的数据表   
+<img src="{{site.url}}/ydty-img/table.png" />
